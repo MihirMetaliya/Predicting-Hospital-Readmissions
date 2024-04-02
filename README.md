@@ -31,6 +31,7 @@ The healthcare industry faces challenges in predicting hospital readmissions acc
 
 ## Workflow
 
+![Hospital](https://github.com/asdesilva3/Predicting-Hospital-Readmissions/assets/148002331/d3a2f1e6-ecaa-4b90-9d1b-a1e5e81e722d)
 
 
 
@@ -52,8 +53,6 @@ The dataset contains the following columns:
 - **A1C_Result**: Result of the A1C test, if available (e.g., Normal, Abnormal).
 - **Readmitted**: Indicates whether the patient was readmitted to the hospital within a certain time frame (e.g., Yes, No).
 
-
-## Challenges
 
 ## Challenges
 
