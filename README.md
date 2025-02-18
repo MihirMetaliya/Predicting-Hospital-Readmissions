@@ -74,3 +74,4 @@ One specific challenge encountered in this project was the presence of many null
 1. Install the required dependencies using `pip install -r requirements.txt`
 
 2. Run the Streamlit application using `streamlit run app.py`
+ 
